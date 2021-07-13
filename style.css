@@ -1,0 +1,13 @@
+body {
+    background-color: #BB8FCE;
+    font-size: 14px;
+}
+
+.group {
+    display: flex;
+    flex-direction: column;
+}
+
+.item {
+    padding: 10px;
+}
